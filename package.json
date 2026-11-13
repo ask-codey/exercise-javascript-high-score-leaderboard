@@ -1,0 +1,9 @@
+{
+  "name": "high-score-leaderboard",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node show-leaderboard.js",
+    "test": "node --test"
+  }
+}
